@@ -1,0 +1,72 @@
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).exe
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).dll.config
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).deps.json
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).runtimeconfig.json
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).pdb
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\Entity.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\Mapper.dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\Entity.pdb
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\bin\Debug\net8.0-windows\Mapper.pdb
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).csproj.AssemblyReference.cache
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).csproj.GenerateResource.cache
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).AssemblyInfoInputs.cache
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).AssemblyInfo.cs
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).csproj.CoreCompileInputs.cache
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial.9A5E2A5F.Up2Date
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\refint\2Parcial-LUG(UI).dll
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).pdb
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).genruntimeconfig.cache
+C:\Users\martin\Desktop\Data Scientist\2Parcial-Lug\UI\obj\Debug\net8.0-windows\ref\2Parcial-LUG(UI).dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).exe
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).dll.config
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).deps.json
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).runtimeconfig.json
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\2Parcial-LUG(UI).pdb
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\Entity.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\Mapper.dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\Entity.pdb
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\martin\Desktop\2Parcial-Lug\UI\bin\Debug\net8.0-windows\Mapper.pdb
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).csproj.AssemblyReference.cache
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).csproj.GenerateResource.cache
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).AssemblyInfoInputs.cache
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).AssemblyInfo.cs
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).csproj.CoreCompileInputs.cache
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial.9A5E2A5F.Up2Date
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\refint\2Parcial-LUG(UI).dll
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).pdb
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\2Parcial-LUG(UI).genruntimeconfig.cache
+C:\Users\martin\Desktop\2Parcial-Lug\UI\obj\Debug\net8.0-windows\ref\2Parcial-LUG(UI).dll

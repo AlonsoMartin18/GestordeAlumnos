@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\2Parcial-Lug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\2Parcial-LUG(UI).csproj|c:\\users\\martin\\desktop\\repos-github\\2parcial-lug\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\2Parcial-LUG(UI).csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\2Parcial-LUG(UI).csproj|c:\\users\\martin\\desktop\\repos-github\\2parcial-lug\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\2Parcial-LUG(UI).csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE345ABA-54BD-4C02-9A0A-883CB26FB449}|DAL\\DAL.csproj|c:\\users\\martin\\desktop\\repos-github\\2parcial-lug\\dal\\estudiantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE345ABA-54BD-4C02-9A0A-883CB26FB449}|DAL\\DAL.csproj|solutionrelative:dal\\estudiantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F0ADFF-8ECE-428A-BF64-42C524C6545B}|BLL\\BLL.csproj|c:\\users\\martin\\desktop\\repos-github\\2parcial-lug\\bll\\estudiantebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F0ADFF-8ECE-428A-BF64-42C524C6545B}|BLL\\BLL.csproj|solutionrelative:bll\\estudiantebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudianteBLL.cs",
+              "DocumentMoniker": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\2Parcial-Lug\\BLL\\EstudianteBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\EstudianteBLL.cs",
+              "ToolTip": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\2Parcial-Lug\\BLL\\EstudianteBLL.cs",
+              "RelativeToolTip": "BLL\\EstudianteBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:18:30.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudianteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\2Parcial-Lug\\DAL\\EstudianteDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\EstudianteDAL.cs",
+              "ToolTip": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\2Parcial-Lug\\DAL\\EstudianteDAL.cs",
+              "RelativeToolTip": "DAL\\EstudianteDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:18:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\2Parcial-Lug\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\2Parcial-Lug\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:16:05.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\2Parcial-Lug\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\2Parcial-Lug\\UI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:15:49.213Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
